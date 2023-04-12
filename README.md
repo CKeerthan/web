@@ -1,1 +1,125 @@
 # web
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Vinni personal site</title>
+    </head>
+    <body>
+        <img src = "D:\Web vscode\logo\crop image1.png" alt = "vinni profile" width = "200" height="200">
+        <h1>Vinni</h1> 
+        <p><em>Graduate <strong> student </strong> </em></p> 
+        <p>i am an cse ongoing student</p>
+        <strong> currently studying in anurag university</strong>
+        <hr>
+        <h3> Qualification </h3>
+        <ul>
+            <li> <strong> SSC Qualified </strong></li>
+            <li> intermediated passed</li>
+            <li> B.tech Graduvate</li> 
+        </ul>
+        <hr>
+        <h3> MY HOBBIES</h3>
+        <ul>
+            <li> movie watcher </li>
+            <li> playing sports </li>
+        </ul>
+        <hr>
+        <h3> Acclaimed Courses  </h3>  
+        <ol type ="i">  <!--we can mention numbers ,romans ,by default we get numbers-->
+            <li> python</li> 
+            <li> c </li>
+            <li> web development <ul> <li> html</li> <li> css </li>  <li> javascript</li> </ul> </li> 
+         </ol>     
+            <!-- my first html code-->
+        <hr>    
+        <h3> EDUCATION </h3>
+            <p> <ul> <li> ANURAG UNIVERSITY <img src = "logo/au logo.png" alt = "au logo"> <strong> < a href="https://www.aurag.edu.in"> b.tech </a> </strong> </li> </ul> </p>  
+            <p>  <ul> <li >  NARAYANA <strong> <a href = "https://www.narayanagroup.com/"> inter </a> </strong>  </li>  </ul> </p>
+        <h3<ul><li></li><strong>><a href="job.html"> job </a> </strong></ul></ul></h3>   
+        <h3>Work exeperence</h3>
+        <table border="1">
+            <thead>
+                <tr>
+                <th>year</th>
+                <th>company</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                <tr>
+                <th>2025</th>
+                <th>infosys</th>
+                </tr>
+            </tbody>
+            <tfoot>
+
+            </tfoot>
+            <hr>
+
+
+        </table> 
+        <hr size="2">   
+        <h2> SKILLS</h2>
+        <table cellspacing="20">
+            <tr>
+                <td>
+                    <table cellspacing="20">
+                        <tr>
+                        <td>python </td>
+                        <td>⭐⭐⭐⭐⭐</td> 
+                        </tr>
+
+                        <tr>
+                        <td>c </td>
+                        <td>⭐⭐⭐⭐</td> 
+                        </tr>
+
+                        <tr>
+                        <td>java </td>
+                        <td>⭐⭐⭐⭐⭐</td> 
+                        </tr>
+
+                        <tr>
+                        <td>html </td>
+                        <td>⭐⭐⭐⭐</td> 
+                        </tr>
+
+                    </table>
+                </td>
+
+                <td>
+                    <table cellspacing="20">
+                        <tr>
+                        <td>python </td>
+                        <td>⭐⭐⭐⭐⭐</td> 
+                        </tr>
+
+                        <tr>
+                        <td>c </td>
+                        <td>⭐⭐⭐⭐</td> 
+                        </tr>
+
+                        <tr>
+                        <td>java </td>
+                        <td>⭐⭐⭐⭐⭐</td> 
+                        </tr>
+
+                        <tr>
+                        <td>html </td>
+                        <td>⭐⭐⭐⭐</td> 
+                        </tr>
+
+                    </table>
+                </td>    
+            </tr>
+
+        </table>
+        <hr>
+
+        <a href="basic5.html">Skills</a>
+        <a href="job.html">Job</a>
+
+
+    </body>
+</html>
